@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Air purifier illustration">
+  <rect width="400" height="300" fill="#eef4f7"/>
+  <ellipse cx="200" cy="260" rx="150" ry="16" fill="#d7e3e7"/>
+  <rect x="155" y="70" width="90" height="175" rx="20" fill="#4a9bc9"/>
+  <rect x="155" y="70" width="90" height="175" rx="20" fill="none" stroke="#3a7ea3" stroke-width="4"/>
+  <rect x="170" y="95" width="60" height="55" rx="8" fill="#eef4f7" opacity="0.9"/>
+  <circle cx="200" cy="122" r="4" fill="#4a9bc9"/>
+  <rect x="170" y="165" width="60" height="12" rx="6" fill="#eef4f7" opacity="0.7"/>
+  <rect x="170" y="185" width="60" height="12" rx="6" fill="#eef4f7" opacity="0.5"/>
+  <path d="M120 90 C 100 110, 100 140, 120 160" stroke="#9fd0e8" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M100 100 C 75 125, 75 150, 100 175" stroke="#c3e3f2" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M280 90 C 300 110, 300 140, 280 160" stroke="#9fd0e8" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M300 100 C 325 125, 325 150, 300 175" stroke="#c3e3f2" stroke-width="5" fill="none" stroke-linecap="round"/>
+</svg>
