@@ -19,17 +19,4 @@ document.addEventListener("DOMContentLoaded", () => {
   if (yearEl) {
     yearEl.textContent = new Date().getFullYear();
   }
-
-  // Placeholder affiliate links: until real Amazon Associates links are
-  // added, clicking one explains what will happen instead of 404-ing.
-  document.querySelectorAll("[data-affiliate-placeholder]").forEach((link) => {
-    link.addEventListener("click", (event) => {
-      if (link.getAttribute("href") === "#") {
-        event.preventDefault();
-        alert(
-          "This is a placeholder. Once approved for Amazon Associates, this button will link to the real product on Amazon."
-        );
-      }
-    });
-  });
 });
